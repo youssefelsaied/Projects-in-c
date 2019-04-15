@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1545847191 source:c:\users\youssef\desktop\programing project\project in  c\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"load2.h"
+	"print (sort).h"
+	"charvalidation.h"
+	"add1.h"
+	"search1.h"
+	"delete1.h"
+	"save1.h"
+	"modifi.h"
+
+1545613450 c:\users\youssef\desktop\programing project\project in  c\final\load1.h
+
+1545612195 c:\users\youssef\desktop\programing project\project in  c\final\print1.h
+
+1545842568 c:\users\youssef\desktop\programing project\project in  c\final\add1.h
+
+1545842217 c:\users\youssef\desktop\programing project\project in  c\final\save1.h
+
+1545847581 c:\users\youssef\desktop\programing project\project in  c\final\print (sort).h
+	<string.h>
+	<string.h>
+
+1545843407 c:\users\youssef\desktop\programing project\project in  c\final\search1.h
+
+1545837751 c:\users\youssef\desktop\programing project\project in  c\final\delete1.h
+
+1545847756 c:\users\youssef\desktop\programing project\project in  c\final\load2.h
+
+1545844377 c:\users\youssef\desktop\programing project\project in  c\final\modifi.h
+
+1545844046 c:\users\youssef\desktop\programing project\project in  c\final\charvalidation.h
+
